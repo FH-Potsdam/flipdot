@@ -3,7 +3,16 @@ flipdot
 
 playing with flipdots
 
-![](flipdot-640-360.gif)  
+
+![](images/flipdot-640-360.gif)  
+![](flipdot/flipdot_bb.png)  
+You can run the series 30 just by hocking them up to the arduino directly.
+
+
+![](images/flipdot_hbridge.gif)  
+![](flipdot_by_hbridge/flipdot_by_hbridge_bb.png)  
+The 36 & 54 series needs a higher voltage. Hock 'em up with a h-bridge.  
+
 
 ##License
 Copyright 2014 Fabian "fabiantheblind" Morón Zirfas
